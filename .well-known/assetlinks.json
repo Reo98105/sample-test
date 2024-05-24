@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.fidu",
+        "sha256_cert_fingerprints": [
+          "DA:77:3B:59:AA:07:53:BC:32:0E:C4:78:23:90:3E:B7:11:58:EC:E2:FA:4A:AC:2E:DF:6D:B6:D2:42:8B:4A:B8"
+        ]
+      }
+    }
+  ]
+  
